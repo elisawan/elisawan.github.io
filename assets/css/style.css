@@ -1,13 +1,17 @@
 #profile_image{
   border-radius: 50%;
-  width: 30%;
+  width: 80%;
 }
 
 .description{
   display: inline-block;
-  margin-top: 50px;
+  margin-top: 30px;
+}
+
+.preview{
+  padding-bottom: 20px;
 }
 
 img{
-  padding: 20px;
+  padding-bottom: 20px;
 }
