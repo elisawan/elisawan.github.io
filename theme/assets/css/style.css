@@ -1,0 +1,9 @@
+#profile_image{
+  border-radius: 50%;
+  width: 30%;
+}
+
+.description{
+  display: inline-block;
+  margin-top: 50px;
+}
